@@ -19,4 +19,4 @@ public class SimpleInterest {
         System.out.println("The total amount is:" +Amount);
     }
 }
-// ch
+// cha

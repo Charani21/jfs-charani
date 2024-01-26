@@ -24,7 +24,7 @@ double totalInterest = totalAmount - P;
         System.out.println("Total emi is:" +Math.round(emi));
         System.out.println("Total Interest is:" +Math.round(totalInterest));
         System.out.println("Total Amount is:" +Math.round(totalAmount));
-        // charani
+        // charan
 
 
 
