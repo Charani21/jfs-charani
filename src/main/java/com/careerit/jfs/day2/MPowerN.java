@@ -8,3 +8,4 @@ public class MPowerN {
         System.out.println("The result is :" +res);
     }
 }
+//ch

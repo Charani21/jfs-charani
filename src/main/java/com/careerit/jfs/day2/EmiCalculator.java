@@ -2,7 +2,6 @@ package com.careerit.jfs.day2;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
-
 public class EmiCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -25,6 +24,7 @@ double totalInterest = totalAmount - P;
         System.out.println("Total emi is:" +Math.round(emi));
         System.out.println("Total Interest is:" +Math.round(totalInterest));
         System.out.println("Total Amount is:" +Math.round(totalAmount));
+        // charani
 
 
 
