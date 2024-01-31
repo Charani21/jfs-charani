@@ -11,7 +11,7 @@ public class AssignmentQuestions {
         fibonacciSeries(5);
         fibonacciSeries(10);
         double sum = sumOfSeries(5);
-        System.out.println("Sum of series of number : "+ sum);
+        System.out.println("Sum of series of number : " + sum);
     }
 
     //Total items = 108 and no of items per box is 10 then number of boxes required are 11.
@@ -51,7 +51,7 @@ public class AssignmentQuestions {
             int b = 1;
             for (int i = 3; i <= num; i++) {
                 int c = a + b;
-                System.out.print(c+" ");
+                System.out.print(c + " ");
                 a = b;
                 b = c;
             }
@@ -63,14 +63,20 @@ public class AssignmentQuestions {
 //The sum of series 1+1/2!+1/3!+1/4!+1/5!+..............+1/N!
 //Number is 5 th output should be 2.708333333333..
 
-public static double sumOfSeries(int num) {
-    //Logic
-    return 0;
-}
-    public static double factorial(int num){
+    public static double sumOfSeries(int num) {
+        //Logic
+        return 0;
+    }
+
+    public static double factorial(int num) {
         //Logic
         return 0;
 
     }
 
+    //Use for loop to calculate the power of given number
+    public static double power(int n, int pow) {
+        //Logic
+        return 0;
+    }
 }
